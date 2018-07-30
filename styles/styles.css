@@ -19,6 +19,7 @@
     margin-left: 25px;
     background-color: white;
   }
+
   .red-text {
     color: red;
   }
@@ -31,5 +32,10 @@
   .btn-primary {
     color: white;
     background-color: blue
+  }
+
+  body {
+    text-align: center;
+    background-color: blue;
   }
 </style>
