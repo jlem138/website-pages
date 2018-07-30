@@ -1,19 +1,35 @@
-body {
-  text-align: center;
-  background-color: green
-}
+<style>
 
-div {
-  magin-top: 15px;
-}
+  body {
+    text-align: center;
+    background-color: green
+  }
 
-.image-section {
-  display: flex;
-  justify-content: center;
-}
+  div {
+    magin-top: 15px;
+  }
 
-.section-style {
-  margin-right: 25px;
-  margin-left: 25px;
-  background-color: white;
-}
+  .image-section {
+    display: flex;
+    justify-content: center;
+  }
+
+  .section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+  }
+  .red-text {
+    color: red;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .btn-primary {
+    color: white;
+    background-color: blue
+  }
+</style>
